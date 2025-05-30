@@ -1,0 +1,17 @@
+# Private keys
+*.key
+*.pem
+id_rsa*
+*.p12
+*.pfx
+
+# Datasets
+*.csv
+*.json
+*.parquet
+*.pkl
+*.pickle
+data/
+datasets/
+*.h5
+*.hdf5
